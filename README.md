@@ -37,5 +37,5 @@ Evaluation Metrics
 
 ## 🚀 Live Demo  
 
-https://mandalritesh-house-price.hf.space/?logs=container&__theme=system&deep_link=aZQ4WIdQkmU
+https://mandalritesh-house-price.hf.space/?logs=container&__theme=system&deep_link=X_L-nUdn1UU
 
